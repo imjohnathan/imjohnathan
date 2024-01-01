@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub! I'm Johnathan, a Front-End engineer. Feel free to explore two of my projects below. Your feedback is greatly appreciated!
+Welcome to my GitHub! I'm Johnathan, a Front-End engineer.
 
 ### Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,vue,next,nuxt,supabase,firebase,vite,graphql)
